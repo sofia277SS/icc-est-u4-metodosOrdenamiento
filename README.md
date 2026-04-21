@@ -1,22 +1,12 @@
+# Universidad Politécnica Salesiana
 
-# Práctica: Metodos de ordenamiento
+## Estructura de Datos
+## Estudiante: Sofia Pacheco Marcatoma
 
-## Datos del Estudiante
-- **Nombre:** Sofia Pacheco Marcatoma
-- **Curso:** 
-- **Fecha:** 20/04/2026
+## Práctica 1.1 Metodos de ordenamiento
+### Fecha: 20/04/2026
+### Descripción:
 
----
+Cree la clase `MetodoBurbuja` que implementa metodo de ordenamiento ascendente, descendente y un metodo para imprimir. Con constructor que instancia una variable global.
 
-## 1. icc-est-u4-metodosordenamiento
-![Descripción de la captura](assets/02-captura-ejemplo.png)
-
-**Fecha:** 20/04/2026
-
-**Descripción:** [Explicar qué muestra esta captura o que desarrollo en clases]
-
----
-
-
----
 
