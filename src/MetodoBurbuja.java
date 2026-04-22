@@ -4,7 +4,7 @@ public class MetodoBurbuja {
 
     // Constructor vacío
     public MetodoBurbuja(int[] arreglo){
-        System.out.println("Se creo la clase Metodo Burbuja");
+        
         // 1ra Forma
         // INSTANCIAR CON VALOR CREADO EN CONSTRUCTOR
         //this.arreglo= new int[]{10,5,8,0,7};
